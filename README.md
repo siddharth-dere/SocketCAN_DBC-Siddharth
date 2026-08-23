@@ -1,4 +1,4 @@
-# AI-Assisted DBC Generation and CAN Data Visualization Using SocketCAN
+
 
 ## 1. System Overview
 
